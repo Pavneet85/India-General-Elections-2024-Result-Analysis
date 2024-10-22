@@ -38,7 +38,10 @@ The aim of the following analysis is to study the following parameters:
 
       c) do remember to add primary keys to the tables while modifying the columns for each tables. 
 
-- Step 3: The next step includes firing SQL queries depending upon the problem statements and storing the results. We will also prepare a WORD file to document the SQL queries for future reference. 
+- Step 3: Now, we will design a relationship between tables called "SCHEMA" in data-modelling where the 5 tables are related to atleast 1 other table through a common field. The constituencywise_results is the fact table and other 4 are dimension tables.
+![Election 17](https://github.com/user-attachments/assets/d6d4fc2f-8289-4715-922e-b897f20a5ff8)
+   
+- Step 4: The next step includes firing SQL queries depending upon the problem statements and storing the results. We will also prepare a WORD file to document the SQL queries for future reference. 
 
 #### SQL QUERIES: 
 

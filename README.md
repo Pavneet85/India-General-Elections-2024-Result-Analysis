@@ -65,7 +65,7 @@ b) To find Total number of seats available for election in each state -
 
 
  Below is the snapshot of the query fired and the subsequent result:
-     ![CS 1](https://github.com/user-attachments/assets/934ff7f4-eea1-4aab-a20d-b176fc90fd16)
+![Election 2](https://github.com/user-attachments/assets/2cb05d19-7891-46f3-b689-d1aa522604c2)   
     
 
 c) To find total seats won by NDA alliance: (The NDA alliance parties can be searched on web) - 

@@ -26,9 +26,7 @@ The aim of the following analysis is to study the following parameters:
 
     8) Which party won the most seats in a state and total number of seats won by each party. 
 
-### Tools Used: Excel for visualization and SQL to cross-check the results by retrieving relevant results from the respective tables with the help of SQL queries. 
-
-### Steps Followed:   Data Preparation, Query & Manipulation Through SQL  
+### Steps Followed: Data Preparation, Query & Manipulation Through SQL  
 
 - Step 1 : Review the dataset which is available as a 5 csv files in excel and analyse the number of column heads and the number of rows for the data. Get familiar with the data and spend some time analysing the column heads along with data types.  
 
